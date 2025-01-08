@@ -1,0 +1,18 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-fPIC",
+      "-Wall",
+      "-Iinclude",
+      "-I/usr/local/cuda/include",
+      "-c",
+      "-o",
+      "obj/tcpx_api.o",
+      "src/tcpx_api.c"
+    ],
+    "directory": "/home/tcpx/libtcpx_temp",
+    "file": "/home/tcpx/libtcpx_temp/src/tcpx_api.c",
+    "output": "/home/tcpx/libtcpx_temp/obj/tcpx_api.o"
+  }
+]
